@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Rust, GoLang
 - 💞️ I currently work as CEO @ Laplacian Audio
-- 💞️ I currently work with Behringer / TC-Electronic as VST Developer
+- 💞️ I currently work with Behringer / TC-Electronic as Innovation Audio Software Application Specialist
 - 📫 How to reach me: mike@laplacianaudio.com / mike@gazzaruso.com
 
 <!---
