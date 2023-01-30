@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mikegazzaruso
 - 👀 I am a Software Engineer
-- 💞️ I currently work as CEO @ Laplacian Audio
+- 💞️ CEO @ Laplacian Audio | https://laplacianaudio.com
+- 💞️ CEO @ Neuralia | https://neuralia.io
 - 💞️ I currently work with Behringer / TC-Electronic as Innovation Audio Software Application Specialist
 - 📫 How to reach me: mike@laplacianaudio.com / mike@gazzaruso.com
 
