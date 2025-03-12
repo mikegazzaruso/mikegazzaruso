@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikegazzaruso
 - 👀 I am a Software Engineer & Musician
 - 💞️ Owner @ Laplacian Audio 
-- 💞️ Core Team Member of AudioKit (#1 iOS Audio App Dev Framework)
+- 💞️ AudioKit Core Team Member (#1 iOS Audio App Dev Framework)
 - 📫 How to reach me: mike@gazzaruso.com
 
 <!---
