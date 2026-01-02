@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikegazzaruso
 - 👀 I'm an AI Architect and a Musician
-- 💞️ Founder @ Next Epochs
+- 💞️ Founder of Sylfo
 - 💞️ AudioKit Core Team Member (#1 iOS Audio App Dev Framework)
 - 📫 How to reach me: mike@gazzaruso.com
 <!---
