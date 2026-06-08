@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikegazzaruso
 - 👀 I'm an AI Architect and a Musician
-- 💞️ Founder of ParseFloew (https://parseflow.ai)
-- 💞️ Find my personal site / store at https://sylfo.space
+- 💞️ Founder of NextEpochs (https://nextepochs.com)
+- 💞️ I'm also SylFo / store at https://sylfo.space
 - 💞️ AudioKit Core Team Member (#1 iOS Audio App Dev Framework)
 - 📫 How to reach me: mike@gazzaruso.com
 <!---
